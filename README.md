@@ -47,10 +47,24 @@
 + Kiểm tra path
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5715aaf0-363d-42a6-8097-43bb847be8ce" />
 
-### 7. Tạo database `DuongPhuong` có trường `masv` là Khóa chính (Primary key):
+### 7. Tạo database `DuongPhuong` có trường `masv` là Khóa chính (Primary key)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c42c7d49-5781-4999-b453-27d940d2b03d" />
 
 ### 8. Import file dữ liệu `svtnut.csv`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a5d7d9a-5e62-4acc-8b68-2e9fac5c7fa3" />
+
+### 9. Gõ lệnh kiểm tra số dòng của bảng dữ liệu sau khi import
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4b479c7-1a2c-4449-861a-047bd8870dc5" />
+
+### 10. Thêm 1 row vào bảng với dữ liệu là thông tin của sinh viên đang làm bài 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3cfbd132-c596-40a8-b329-8eb78e2890da" />
+
+### 11. Update trường `noisinh` thành `Sao Hỏa` cho những dòng có `noisinh` đều là `NULL`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e507e214-c48e-41ce-8a57-49338cf0f700" />
+
+### 12. Tạo bảng `Sao Hỏa` sử dụng câu lệnh `SELECT + INTO`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30b0555e-5d18-4c9d-bc2f-be70f5fe2fd9" />
+
 
 
 
