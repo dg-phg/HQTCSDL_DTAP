@@ -9,15 +9,6 @@
 * add currentcuser
 <img width="1920" height="1080" alt="hihi" src="https://github.com/user-attachments/assets/82adbb29-1f70-4b21-8ad1-a57a48aec69e" />
 
-+ đăng nhập bằng window authentication
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54a180d4-bd1c-4788-9f5d-199795e41475" />
-
-+ đăng nhập bằng username và password
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84d2053e-5d33-4686-b44c-fe40da84769e" />
-
-* Cài đặt _SQL Server Management Studio_
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55a6b76d-1559-4e6b-aae6-210ce1034efe" />
-
 ### 2. Các server đang chạy 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d0111ea6-87ba-40e9-a0d9-f2be8e3109d5" />
 
@@ -39,6 +30,24 @@
 
 ### 3. kiểm tra cổng `36056` đang mở bằng lệnh `netstat -ano | findstr LISTENING`
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/730e9c35-75e3-45bf-91c0-a18750ff4c87" />
+
+### 4. Cài đặt _SQL Server Management Studio_
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55a6b76d-1559-4e6b-aae6-210ce1034efe" />
+
+### 5. Chạy phần mềm SQL Management Studio bằng 2 kiểu: _Windows Authentication_ và _SQL Server Authentication_
++ đăng nhập bằng window authentication
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54a180d4-bd1c-4788-9f5d-199795e41475" />
+
++ đăng nhập bằng username và password
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84d2053e-5d33-4686-b44c-fe40da84769e" />
+
+### 6. Tạo mới cở sở dữ liệu
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/e18eebeb-b371-408d-9db3-4a4abce81ef3" />
+
++ Kiểm tra path
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5715aaf0-363d-42a6-8097-43bb847be8ce" />
+
+### 7. 
 
 
 
