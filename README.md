@@ -47,7 +47,12 @@
 + Kiểm tra path
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5715aaf0-363d-42a6-8097-43bb847be8ce" />
 
-### 7. 
+### 7. Tạo database `DuongPhuong` có trường `masv` là Khóa chính (Primary key):
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65cb2865-2bf9-4e72-8e44-17bb4435947e" />
+
+### 8. Import file dữ liệu `svtnut.csv`
+
+
 
 
 
