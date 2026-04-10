@@ -1,12 +1,12 @@
 # HQTCSDL_DTAP
-# Thông tin sinh viên:
+## Thông tin sinh viên:
 + **Họ và tên:** Dương Thị Anh Phương
 + **Mã sinh viên:** K235480106056
 + **Lớp:** K235480106056
-+ **Trường:** Đại học Kỹ thuật Công nghiệp
++ **Trường:** Đại học Kỹ thuật Công nghiệp Thái Nguyên
 ---
-### 1. Cài đặt sql
-* add currentcuser
+### 1. Cài đặt SQL Server
+* Add current user
 <img width="1920" height="1080" alt="hihi" src="https://github.com/user-attachments/assets/82adbb29-1f70-4b21-8ad1-a57a48aec69e" />
 
 ### 2. Các server đang chạy 
@@ -34,11 +34,11 @@
 ### 4. Cài đặt _SQL Server Management Studio_
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55a6b76d-1559-4e6b-aae6-210ce1034efe" />
 
-### 5. Chạy phần mềm SQL Management Studio bằng 2 kiểu: _Windows Authentication_ và _SQL Server Authentication_
-+ đăng nhập bằng window authentication
+### 5. Chạy phần mềm SQL Management Studio 22 bằng 2 kiểu: _Windows Authentication_ và _SQL Server Authentication_
++ Đăng nhập bằng Window Authentication
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54a180d4-bd1c-4788-9f5d-199795e41475" />
 
-+ đăng nhập bằng username và password
++ Đăng nhập bằng username và password
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84d2053e-5d33-4686-b44c-fe40da84769e" />
 
 ### 6. Tạo mới cở sở dữ liệu
@@ -62,19 +62,29 @@
 ### 11. Update trường `noisinh` thành `Sao Hỏa` cho những dòng có `noisinh` đều là `NULL`
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e507e214-c48e-41ce-8a57-49338cf0f700" />
 
-### 12. Tạo bảng `Sao Hỏa` sử dụng câu lệnh `SELECT + INTO`
+### 12. Tạo bảng `SaoHoa` sử dụng câu lệnh `SELECT + INTO`
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/601d9157-72da-412e-acd2-365182f5a8e1" />
 
 ### 13. Xóa những sinh viên họ `Dương` có trong bảng `SaoHoa`
 <img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/2d8beee8-c00b-4986-be3e-f2ca2ae16ed8" />
 
 ### 14. Xuất toàn bộ kết quả của các bước 6,7,8,9,10,11,12,13 ra file `dulieu.sql`, keyword sử dụng tính năng GEN SCRIPT `struct + data` cho database
-+ <img width="1920" height="1075" alt="image" src="https://github.com/user-attachments/assets/e930ffae-e864-4778-a5b8-df36ac1c56a1" />
+<img width="1920" height="1075" alt="image" src="https://github.com/user-attachments/assets/e930ffae-e864-4778-a5b8-df36ac1c56a1" />
 
-+ Next
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11905e5b-46c2-4f7a-9623-49d4fcaba47d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11905e5b-46c2-4f7a-9623-49d4fcaba47d" />
+  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f00f96a-98ea-4b41-bd51-8269d4e3fff9" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/224ee5c4-6ab9-4f9d-9b21-fcf94d65d24e" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7884a95-0064-40cf-ba66-a57364974e8b" />
 
+### 15. Xóa cơ sở dữ liệu đã tạo và kiểm tra lại file 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e86d79b-9b3a-40eb-8ae7-05a0b0ed7c33" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/530109f3-7d7d-4594-9b1d-986e81bb2487" />
 
+### 16. chạy toàn bộ các lệnh trong file dulieu.sql
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a8d557e-f231-4a3a-8378-bcd2c63d0a37" />
+
+### 17. Upload file dulieu.sql lên github repository 
