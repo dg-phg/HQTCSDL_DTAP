@@ -82,8 +82,8 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/530109f3-7d7d-4594-9b1d-986e81bb2487" />
 
-### 16. chạy toàn bộ các lệnh trong file dulieu.sql
+### 16. Chạy toàn bộ các lệnh trong file `dulieu.sql`
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a8d557e-f231-4a3a-8378-bcd2c63d0a37" />
 
-### 17. Upload file dulieu.sql lên github repository 
+### 17. Upload file `dulieu.sql` lên Github repository 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1447165-9474-4734-b204-0722ccee0e96" />
