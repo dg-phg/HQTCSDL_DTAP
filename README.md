@@ -77,8 +77,6 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/224ee5c4-6ab9-4f9d-9b21-fcf94d65d24e" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7884a95-0064-40cf-ba66-a57364974e8b" />
-
 ### 15. Xóa cơ sở dữ liệu đã tạo và kiểm tra lại file 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e86d79b-9b3a-40eb-8ae7-05a0b0ed7c33" />
 
