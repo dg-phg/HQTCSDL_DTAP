@@ -63,9 +63,16 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e507e214-c48e-41ce-8a57-49338cf0f700" />
 
 ### 12. Tạo bảng `Sao Hỏa` sử dụng câu lệnh `SELECT + INTO`
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30b0555e-5d18-4c9d-bc2f-be70f5fe2fd9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/601d9157-72da-412e-acd2-365182f5a8e1" />
 
+### 13. Xóa những sinh viên họ `Dương` có trong bảng `SaoHoa`
+<img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/2d8beee8-c00b-4986-be3e-f2ca2ae16ed8" />
 
+### 14. Xuất toàn bộ kết quả của các bước 6,7,8,9,10,11,12,13 ra file `dulieu.sql`, keyword sử dụng tính năng GEN SCRIPT `struct + data` cho database
++ <img width="1920" height="1075" alt="image" src="https://github.com/user-attachments/assets/e930ffae-e864-4778-a5b8-df36ac1c56a1" />
+
++ Next
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11905e5b-46c2-4f7a-9623-49d4fcaba47d" />
 
 
 
