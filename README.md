@@ -5,6 +5,7 @@
 + **Lớp:** K235480106056
 + **Trường:** Đại học Kỹ thuật Công nghiệp Thái Nguyên
 ---
+## BÀI TẬP 1
 ### 1. Cài đặt SQL Server
 * Add current user
 <img width="1920" height="1080" alt="hihi" src="https://github.com/user-attachments/assets/82adbb29-1f70-4b21-8ad1-a57a48aec69e" />
