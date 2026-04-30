@@ -1,4 +1,4 @@
-# HQTCSDL_DTAP
+# HQTCSDL_DTAP_BT1
 ## Thông tin sinh viên:
 + **Họ và tên:** Dương Thị Anh Phương
 + **Mã sinh viên:** K235480106056
